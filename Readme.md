@@ -5,6 +5,14 @@
 
 A high-performance, ultra-fast API solver for **Cloudflare Turnstile** and **Cloudflare IUAM (Under Attack Mode)** challenges. Designed for seamless, automated web scraping, data extraction, and bot automation.
 
+---
+
+## 📊 Screenshot
+
+![Xsolve API Solver Screenshot](image.png)
+
+---
+
 ## 🔗 Links
 * **Website:** [https://xsolve.me](https://xsolve.me)
 * **Documentation:** [https://docs.xsolve.me/](https://docs.xsolve.me/)
@@ -44,16 +52,6 @@ That's over **12,500** CAPTCHAs solved for just a single dollar!
 | **$20** | 250,000 (250k) |
 | **$50** | 625,000 (625k) |
 | **$100** | 1,250,000 (1.25m) |
-
----
-
-## 📊 Overview
-
-Below is a preview of the solver interface and details:
-
-![Xsolve API Solver Pricing](image.png)
-
----
 
 ## 🚀 Quick Integration (Python)
 
